@@ -1,21 +1,15 @@
-nohup: ignoring input
 Server initialized for asgi.
 INFO:engineio.server:Server initialized for asgi.
 INFO:     Will watch for changes in these directories: ['/workspace/emotion-analyzer/backend']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [4707] using StatReload
+INFO:     Started reloader process [5760] using StatReload
 Server initialized for asgi.
 INFO:engineio.server:Server initialized for asgi.
 Server initialized for asgi.
 INFO:engineio.server:Server initialized for asgi.
-INFO:     Started server process [4716]
+INFO:     Started server process [5774]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     127.0.0.1:38954 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:46084 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:49538 - "GET /health HTTP/1.1" 200 OK
-INFO:     Shutting down
-INFO:     Waiting for application shutdown.
-INFO:     Application shutdown complete.
-INFO:     Finished server process [4716]
-INFO:     Stopping reloader process [4707]
+INFO:     127.0.0.1:39932 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35046 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44710 - "GET /health HTTP/1.1" 200 OK
